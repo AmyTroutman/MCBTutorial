@@ -4,13 +4,13 @@
         "authors": [
             "AeyGrey"
         ],
-        "url": "<your-github-repo-url>",
+        "url": "https://github.com/AmyTroutman/MCBTutorial",
         "license": "TBD"
     },
     "header": {
         "name": "Hello World",
         "description": "Hello World scripting tutorial addon!",
-        "uuid": "<uuid-1>",
+        "uuid": "2a29f2f8-02bd-4506-bb10-ae7844c75986",
         "version": [0, 0, 1],
         "min_engine_version": [1, 14, 0]
     },
@@ -18,13 +18,13 @@
         {
             "description": "Hello World behavior pack module",
             "type": "data",
-            "uuid": "<uuid-2>",
+            "uuid": "0e2b1af4-ca10-45f4-a979-eb8d8efd7e42",
             "version": [0, 0, 1]
         },
         {
             "description": "Hello World client scripts module",
             "type": "client_data",
-            "uuid": "<uuid-3>",
+            "uuid": "c1d18450-9f4f-4af4-93b3-b0220845d00c",
             "version": [0, 0, 1]
         }
     ],

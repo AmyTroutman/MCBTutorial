@@ -1,0 +1,1 @@
+Following this [tutorial](https://wiki.bedrock.dev/scripting/hello-world-tutorial).
